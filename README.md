@@ -42,7 +42,7 @@ RTM-FASS provides an automated, unbiased fight analysis system that:
 
 ### 🦴 Computer Vision Pipeline
 - **Fighter Detection** - RTMDet-M for accurate person detection
-- **Pose Estimation** - RTMPose-M with 17-point skeleton tracking
+- **Pose Estimation** - YoloPosev8 with 17-point skeleton tracking
 - **Automatic ID Assignment** - Left/right fighter identification based on ring position
 - **Stance Recognition** - Orthodox vs Southpaw detection
 
