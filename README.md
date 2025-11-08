@@ -12,59 +12,6 @@
 
 ---
 
-
-
-## ✨ Features
-
-- 🎥 **Real-time Fighter Detection** - Track multiple fighters with RTMDet
-- 🦴 **Pose Estimation** - 17-point skeleton tracking with RTMPose
-- 👊 **Strike Recognition** - Detect punches, kicks, elbows, knees
-- 📊 **Automated Scoring** - Muay Thai rules-based scoring system
-- 📈 **Performance Analytics** - Comprehensive fight statistics
-- 🎬 **Video Export** - Annotated fight analysis videos
-
-I'll create a beautiful README without personal info, using details from your PPRS and project files.
-1. Main README.md (root directory: /content/drive/MyDrive/RTM-FASS/README.md)
-pythonreadme_content = '''# 🥊 RTM-FASS: Real-Time Muay Thai Fight Analysis & Scoring System
-
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.1.2-red.svg)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/RTM-FASS/blob/main/notebooks/demo.ipynb)
-
-> 🎯 AI-powered automated scoring system for Muay Thai fights using computer vision and deep learning
-
-**Final Year Project | Computer Science | University of Westminster**
-
----
-
-## 📺 Demo
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="docs/demo/fighter_detection.gif" alt="Fighter Detection" width="100%"/>
-      <br/><b>Real-time Fighter Detection</b>
-    </td>
-    <td width="50%" align="center">
-      <img src="docs/demo/pose_estimation.gif" alt="Pose Estimation" width="100%"/>
-      <br/><b>Pose Estimation & Tracking</b>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="docs/demo/strike_detection.gif" alt="Strike Detection" width="100%"/>
-      <br/><b>Strike Recognition</b>
-    </td>
-    <td width="50%" align="center">
-      <img src="docs/demo/scoring.gif" alt="Live Scoring" width="100%"/>
-      <br/><b>Automated Scoring Dashboard</b>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🎯 Overview
 
 ### The Problem
@@ -84,3 +31,37 @@ RTM-FASS provides an automated, unbiased fight analysis system that:
 - ✅ **Multi-stakeholder tool** - Serves fighters, coaches, judges, and analysts
 
 ---
+
+## ✨ Key Features
+
+### 🎥 Video Processing
+- **Live & Recorded Analysis** - Process fights in real-time or from video files
+- **Multi-Fighter Tracking** - Simultaneous detection and tracking of both fighters
+- **Environment Adaptation** - Robust to varying lighting, angles, and camera distances
+- **YouTube Integration** - Direct analysis from online fight videos
+
+### 🦴 Computer Vision Pipeline
+- **Fighter Detection** - RTMDet-M for accurate person detection
+- **Pose Estimation** - RTMPose-M with 17-point skeleton tracking
+- **Automatic ID Assignment** - Left/right fighter identification based on ring position
+- **Stance Recognition** - Orthodox vs Southpaw detection
+
+### 👊 Strike Recognition System
+
+Comprehensive detection of all Muay Thai techniques:
+
+| Category | Techniques Detected |
+|----------|-------------------|
+| **Punches** | Jab, Cross, Hook, Uppercut |
+| **Kicks** | Roundhouse, Front Kick, Side Kick, Low Kick |
+| **Elbows** | Horizontal, Diagonal, Uppercut, Spinning |
+| **Knees** | Straight, Curved, Flying, Jumping |
+| **Clinch** | Position control, knee strikes in clinch |
+
+### 📊 Scoring Engine
+
+**Traditional 10-Point Must System**:
+- Strike effectiveness weighted by technique type
+- Aggression and ring control metrics
+- Defense rate (blocks + evasions)
+- Technical execution scoring
