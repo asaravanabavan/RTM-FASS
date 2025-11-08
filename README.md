@@ -6,9 +6,9 @@
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/RTM-FASS/blob/main/notebooks/demo.ipynb)
 
 ----
-> 🎯 AI-powered automated scoring system for Muay Thai fights using computer vision and deep learning
+> An AI-powered automated scoring system for Muay Thai fights using computer vision and deep learning to provide objective scoring for each fighter
 
-**Final Year Project | BSc (Hons) Computer Science | University of Westminster**
+This was created for my Final Year Project at the University of Westminster.
 
 ---
 
