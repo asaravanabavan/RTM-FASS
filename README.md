@@ -28,7 +28,6 @@ RTM-FASS provides an automated, unbiased fight analysis system that:
 - ✅ **Eliminates human bias** - Consistent, rule-based scoring
 - ✅ **Real-time analysis** - Instant performance feedback during fights
 - ✅ **Comprehensive statistics** - Detailed breakdown of techniques and effectiveness
-- ✅ **Multi-stakeholder tool** - Serves fighters, coaches, judges, and analysts
 
 ---
 
