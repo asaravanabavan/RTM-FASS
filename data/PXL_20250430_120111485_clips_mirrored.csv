@@ -1,0 +1,4 @@
+label,start,end,start_s,end_s,src,out
+hook,48,89,0.8488461205028175,1.573902181765641,C:\Users\ylop\Desktop\TRAINING FOOTAGE\PXL_20250430_120111485.mp4,C:\Users\ylop\Desktop\annotator\extracted_techniques\strikes\hook\hook_mirrored_PXL_20250430_120111485_001.mp4
+uppercut,144,177,2.5465383615084525,3.13012006935414,C:\Users\ylop\Desktop\TRAINING FOOTAGE\PXL_20250430_120111485.mp4,C:\Users\ylop\Desktop\annotator\extracted_techniques\strikes\uppercut\uppercut_mirrored_PXL_20250430_120111485_002.mp4
+roundhouse,543,695,9.602571738188123,12.290584453113713,C:\Users\ylop\Desktop\TRAINING FOOTAGE\PXL_20250430_120111485.mp4,C:\Users\ylop\Desktop\annotator\extracted_techniques\strikes\roundhouse\roundhouse_mirrored_PXL_20250430_120111485_004.mp4

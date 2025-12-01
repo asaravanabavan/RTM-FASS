@@ -1,0 +1,6 @@
+label,start,end,start_s,end_s,src,out
+hook,0,7,0.0,0.12379005923999421,C:\Users\ylop\Desktop\TRAINING FOOTAGE\PXL_20250430_120111485.mp4,C:\Users\ylop\Desktop\annotator\extracted_techniques\strikes\hook\hook_PXL_20250430_120111485_000.mp4
+hook,48,89,0.8488461205028175,1.5739021817656407,C:\Users\ylop\Desktop\TRAINING FOOTAGE\PXL_20250430_120111485.mp4,C:\Users\ylop\Desktop\annotator\extracted_techniques\strikes\hook\hook_PXL_20250430_120111485_001.mp4
+uppercut,144,177,2.5465383615084525,3.1301200693541396,C:\Users\ylop\Desktop\TRAINING FOOTAGE\PXL_20250430_120111485.mp4,C:\Users\ylop\Desktop\annotator\extracted_techniques\strikes\uppercut\uppercut_PXL_20250430_120111485_002.mp4
+knee,278,442,4.916233781245484,7.816458026296777,C:\Users\ylop\Desktop\TRAINING FOOTAGE\PXL_20250430_120111485.mp4,C:\Users\ylop\Desktop\annotator\extracted_techniques\strikes\knee\knee_PXL_20250430_120111485_003.mp4
+roundhouse,543,695,9.602571738188123,12.290584453113711,C:\Users\ylop\Desktop\TRAINING FOOTAGE\PXL_20250430_120111485.mp4,C:\Users\ylop\Desktop\annotator\extracted_techniques\strikes\roundhouse\roundhouse_PXL_20250430_120111485_004.mp4

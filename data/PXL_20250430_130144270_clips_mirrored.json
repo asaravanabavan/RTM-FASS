@@ -1,0 +1,20 @@
+[
+  {
+    "label": "jab",
+    "start": 2523,
+    "end": 2615,
+    "start_s": 42.050324806892455,
+    "end_s": 43.58366998415528,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_130144270.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\jab\\jab_mirrored_PXL_20250430_130144270_000.mp4"
+  },
+  {
+    "label": "jab",
+    "start": 2621,
+    "end": 2679,
+    "start_s": 43.683670756585464,
+    "end_s": 44.65034489007724,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_130144270.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\jab\\jab_mirrored_PXL_20250430_130144270_001.mp4"
+  }
+]

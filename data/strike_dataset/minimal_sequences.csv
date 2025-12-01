@@ -1,0 +1,11 @@
+id,label,path,video_path,start_frame,end_frame,outcome,frames
+clip_1_cross,cross,/content/drive/MyDrive/RTM-FASS/data/strike_dataset/clip_1_cross.npy,/content/drive/MyDrive/RTM-FASS/data/raw_videos/full_fights/test_video.mp4,0,120,successful,15
+clip_2_cross,cross,/content/drive/MyDrive/RTM-FASS/data/strike_dataset/clip_2_cross.npy,/content/drive/MyDrive/RTM-FASS/data/raw_videos/full_fights/test_video.mp4,310,430,unsuccessful,15
+clip_3_kick,kick,/content/drive/MyDrive/RTM-FASS/data/strike_dataset/clip_3_kick.npy,/content/drive/MyDrive/RTM-FASS/data/raw_videos/full_fights/test_video.mp4,620,740,successful,15
+clip_4_uppercut,uppercut,/content/drive/MyDrive/RTM-FASS/data/strike_dataset/clip_4_uppercut.npy,/content/drive/MyDrive/RTM-FASS/data/raw_videos/full_fights/test_video.mp4,930,1050,unsuccessful,15
+clip_5_hook,hook,/content/drive/MyDrive/RTM-FASS/data/strike_dataset/clip_5_hook.npy,/content/drive/MyDrive/RTM-FASS/data/raw_videos/full_fights/test_video.mp4,1240,1360,successful,15
+clip_6_hook,hook,/content/drive/MyDrive/RTM-FASS/data/strike_dataset/clip_6_hook.npy,/content/drive/MyDrive/RTM-FASS/data/raw_videos/full_fights/test_video.mp4,1550,1670,unsuccessful,15
+clip_7_cross,cross,/content/drive/MyDrive/RTM-FASS/data/strike_dataset/clip_7_cross.npy,/content/drive/MyDrive/RTM-FASS/data/raw_videos/full_fights/test_video.mp4,1860,1980,successful,15
+clip_8_hook,hook,/content/drive/MyDrive/RTM-FASS/data/strike_dataset/clip_8_hook.npy,/content/drive/MyDrive/RTM-FASS/data/raw_videos/full_fights/test_video.mp4,2170,2290,successful,15
+clip_9_uppercut,uppercut,/content/drive/MyDrive/RTM-FASS/data/strike_dataset/clip_9_uppercut.npy,/content/drive/MyDrive/RTM-FASS/data/raw_videos/full_fights/test_video.mp4,2480,2600,unsuccessful,15
+clip_10_hook,hook,/content/drive/MyDrive/RTM-FASS/data/strike_dataset/clip_10_hook.npy,/content/drive/MyDrive/RTM-FASS/data/raw_videos/full_fights/test_video.mp4,2791,2911,unsuccessful,15

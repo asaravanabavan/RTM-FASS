@@ -1,0 +1,326 @@
+[
+  {
+    "label": "jab",
+    "start": 1550,
+    "end": 1613,
+    "start_s": 25.83403303929822,
+    "end_s": 26.884061478960017,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\jab\\jab_mirrored_PXL_20250430_124959341_000.mp4"
+  },
+  {
+    "label": "roundhouse",
+    "start": 1622,
+    "end": 1729,
+    "start_s": 27.034065541768847,
+    "end_s": 28.817447177384917,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\roundhouse\\roundhouse_mirrored_PXL_20250430_124959341_001.mp4"
+  },
+  {
+    "label": "cross",
+    "start": 1734,
+    "end": 1812,
+    "start_s": 28.90078276783427,
+    "end_s": 30.200817978844114,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\cross\\cross_mirrored_PXL_20250430_124959341_002.mp4"
+  },
+  {
+    "label": "roundhouse",
+    "start": 1818,
+    "end": 1916,
+    "start_s": 30.300820687383332,
+    "end_s": 31.934198260190573,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\roundhouse\\roundhouse_mirrored_PXL_20250430_124959341_003.mp4"
+  },
+  {
+    "label": "jab",
+    "start": 1956,
+    "end": 2022,
+    "start_s": 32.60088298378537,
+    "end_s": 33.70091277771677,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\jab\\jab_mirrored_PXL_20250430_124959341_004.mp4"
+  },
+  {
+    "label": "roundhouse",
+    "start": 2063,
+    "end": 2190,
+    "start_s": 34.384264619401435,
+    "end_s": 36.50098861681491,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\roundhouse\\roundhouse_mirrored_PXL_20250430_124959341_005.mp4"
+  },
+  {
+    "label": "jab",
+    "start": 2242,
+    "end": 2278,
+    "start_s": 37.367678757488136,
+    "end_s": 37.967695008723446,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\jab\\jab_mirrored_PXL_20250430_124959341_006.mp4"
+  },
+  {
+    "label": "cross",
+    "start": 2279,
+    "end": 2314,
+    "start_s": 37.984362126813316,
+    "end_s": 38.56771125995876,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\cross\\cross_mirrored_PXL_20250430_124959341_007.mp4"
+  },
+  {
+    "label": "roundhouse",
+    "start": 2315,
+    "end": 2396,
+    "start_s": 38.58437837804863,
+    "end_s": 39.934414943328086,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\roundhouse\\roundhouse_mirrored_PXL_20250430_124959341_008.mp4"
+  },
+  {
+    "label": "knee",
+    "start": 2982,
+    "end": 3053,
+    "start_s": 49.7013461439918,
+    "end_s": 50.88471152837256,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\knee\\knee_mirrored_PXL_20250430_124959341_009.mp4"
+  },
+  {
+    "label": "knee",
+    "start": 3054,
+    "end": 3135,
+    "start_s": 50.901378646462426,
+    "end_s": 52.251415211741886,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\knee\\knee_mirrored_PXL_20250430_124959341_010.mp4"
+  },
+  {
+    "label": "knee",
+    "start": 3136,
+    "end": 3232,
+    "start_s": 52.268082329831756,
+    "end_s": 53.86812566645926,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\knee\\knee_mirrored_PXL_20250430_124959341_011.mp4"
+  },
+  {
+    "label": "knee",
+    "start": 3233,
+    "end": 3316,
+    "start_s": 53.88479278454913,
+    "end_s": 55.26816358600832,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\knee\\knee_mirrored_PXL_20250430_124959341_012.mp4"
+  },
+  {
+    "label": "knee",
+    "start": 3317,
+    "end": 3354,
+    "start_s": 55.28483070409819,
+    "end_s": 55.90151407342338,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\knee\\knee_mirrored_PXL_20250430_124959341_013.mp4"
+  },
+  {
+    "label": "knee",
+    "start": 3355,
+    "end": 3406,
+    "start_s": 55.91818119151325,
+    "end_s": 56.768204214096606,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\knee\\knee_mirrored_PXL_20250430_124959341_014.mp4"
+  },
+  {
+    "label": "knee",
+    "start": 3407,
+    "end": 3451,
+    "start_s": 56.784871332186476,
+    "end_s": 57.51822452814075,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\knee\\knee_mirrored_PXL_20250430_124959341_015.mp4"
+  },
+  {
+    "label": "knee",
+    "start": 3452,
+    "end": 3556,
+    "start_s": 57.53489164623062,
+    "end_s": 59.26827192757708,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\knee\\knee_mirrored_PXL_20250430_124959341_016.mp4"
+  },
+  {
+    "label": "knee",
+    "start": 3557,
+    "end": 3698,
+    "start_s": 59.284939045666945,
+    "end_s": 61.635002696338596,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\knee\\knee_mirrored_PXL_20250430_124959341_017.mp4"
+  },
+  {
+    "label": "knee",
+    "start": 3699,
+    "end": 3748,
+    "start_s": 61.651669814428466,
+    "end_s": 62.46835860083208,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\knee\\knee_mirrored_PXL_20250430_124959341_018.mp4"
+  },
+  {
+    "label": "knee",
+    "start": 3749,
+    "end": 3847,
+    "start_s": 62.48502571892195,
+    "end_s": 64.1184032917292,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\knee\\knee_mirrored_PXL_20250430_124959341_019.mp4"
+  },
+  {
+    "label": "knee",
+    "start": 20799,
+    "end": 20928,
+    "start_s": 346.6593891512024,
+    "end_s": 348.8094473847956,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\knee\\knee_mirrored_PXL_20250430_124959341_020.mp4"
+  },
+  {
+    "label": "knee",
+    "start": 20929,
+    "end": 20990,
+    "start_s": 348.82611450288545,
+    "end_s": 349.8428087063675,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\knee\\knee_mirrored_PXL_20250430_124959341_021.mp4"
+  },
+  {
+    "label": "knee",
+    "start": 20991,
+    "end": 21089,
+    "start_s": 349.8594758244574,
+    "end_s": 351.49285339726464,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\knee\\knee_mirrored_PXL_20250430_124959341_022.mp4"
+  },
+  {
+    "label": "knee",
+    "start": 21090,
+    "end": 21160,
+    "start_s": 351.5095205153545,
+    "end_s": 352.6762187816454,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\knee\\knee_mirrored_PXL_20250430_124959341_023.mp4"
+  },
+  {
+    "label": "knee",
+    "start": 21161,
+    "end": 21250,
+    "start_s": 352.69288589973524,
+    "end_s": 354.1762594097337,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\knee\\knee_mirrored_PXL_20250430_124959341_024.mp4"
+  },
+  {
+    "label": "knee",
+    "start": 21251,
+    "end": 21375,
+    "start_s": 354.19292652782354,
+    "end_s": 356.2596491709674,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\knee\\knee_mirrored_PXL_20250430_124959341_025.mp4"
+  },
+  {
+    "label": "teep",
+    "start": 21499,
+    "end": 21661,
+    "start_s": 358.32637181411127,
+    "end_s": 361.0264449446702,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\teep\\teep_mirrored_PXL_20250430_124959341_027.mp4"
+  },
+  {
+    "label": "teep",
+    "start": 21699,
+    "end": 21742,
+    "start_s": 361.6597954320852,
+    "end_s": 362.3764815099496,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\teep\\teep_mirrored_PXL_20250430_124959341_028.mp4"
+  },
+  {
+    "label": "teep",
+    "start": 21754,
+    "end": 21882,
+    "start_s": 362.57648692702804,
+    "end_s": 364.7098780425314,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\teep\\teep_mirrored_PXL_20250430_124959341_029.mp4"
+  },
+  {
+    "label": "teep",
+    "start": 21883,
+    "end": 21965,
+    "start_s": 364.72654516062124,
+    "end_s": 366.0932488439906,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\teep\\teep_mirrored_PXL_20250430_124959341_030.mp4"
+  },
+  {
+    "label": "teep",
+    "start": 21971,
+    "end": 22090,
+    "start_s": 366.19325155252983,
+    "end_s": 368.1766386052243,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\teep\\teep_mirrored_PXL_20250430_124959341_031.mp4"
+  },
+  {
+    "label": "teep",
+    "start": 25353,
+    "end": 25584,
+    "start_s": 422.56144493246956,
+    "end_s": 426.41154921122944,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\teep\\teep_mirrored_PXL_20250430_124959341_032.mp4"
+  },
+  {
+    "label": "teep",
+    "start": 25823,
+    "end": 25912,
+    "start_s": 430.39499043470835,
+    "end_s": 431.8783639447068,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\teep\\teep_mirrored_PXL_20250430_124959341_033.mp4"
+  },
+  {
+    "label": "teep",
+    "start": 26081,
+    "end": 26196,
+    "start_s": 434.69510690189475,
+    "end_s": 436.6118254822298,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\teep\\teep_mirrored_PXL_20250430_124959341_034.mp4"
+  },
+  {
+    "label": "teep",
+    "start": 26197,
+    "end": 26221,
+    "start_s": 436.62849260031965,
+    "end_s": 437.02850343447653,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\teep\\teep_mirrored_PXL_20250430_124959341_035.mp4"
+  },
+  {
+    "label": "teep",
+    "start": 26370,
+    "end": 26469,
+    "start_s": 439.51190402986714,
+    "end_s": 441.16194872076426,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_124959341.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\teep\\teep_mirrored_PXL_20250430_124959341_036.mp4"
+  }
+]

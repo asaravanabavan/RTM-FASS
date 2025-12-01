@@ -1,0 +1,47 @@
+[
+  {
+    "label": "hook",
+    "start": 0,
+    "end": 7,
+    "start_s": 0.0,
+    "end_s": 0.12379005923999421,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_120111485.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\hook\\hook_PXL_20250430_120111485_000.mp4"
+  },
+  {
+    "label": "hook",
+    "start": 48,
+    "end": 89,
+    "start_s": 0.8488461205028175,
+    "end_s": 1.5739021817656407,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_120111485.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\hook\\hook_PXL_20250430_120111485_001.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 144,
+    "end": 177,
+    "start_s": 2.5465383615084525,
+    "end_s": 3.1301200693541396,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_120111485.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_120111485_002.mp4"
+  },
+  {
+    "label": "knee",
+    "start": 278,
+    "end": 442,
+    "start_s": 4.916233781245484,
+    "end_s": 7.816458026296777,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_120111485.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\knee\\knee_PXL_20250430_120111485_003.mp4"
+  },
+  {
+    "label": "roundhouse",
+    "start": 543,
+    "end": 695,
+    "start_s": 9.602571738188123,
+    "end_s": 12.290584453113711,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_120111485.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\roundhouse\\roundhouse_PXL_20250430_120111485_004.mp4"
+  }
+]

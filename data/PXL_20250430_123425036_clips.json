@@ -1,0 +1,506 @@
+[
+  {
+    "label": "uppercut",
+    "start": 1097,
+    "end": 1250,
+    "start_s": 18.283613640284493,
+    "end_s": 20.833652735055256,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_000.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 1251,
+    "end": 1321,
+    "start_s": 20.8503196572433,
+    "end_s": 22.017004210406395,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_001.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 1322,
+    "end": 1400,
+    "start_s": 22.03367113259444,
+    "end_s": 23.333691063261885,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_002.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 1401,
+    "end": 1458,
+    "start_s": 23.35035798544993,
+    "end_s": 24.30037255016845,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_003.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 1459,
+    "end": 1519,
+    "start_s": 24.317039472356495,
+    "end_s": 25.317054803639145,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_004.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 1520,
+    "end": 1573,
+    "start_s": 25.33372172582719,
+    "end_s": 26.21706860179353,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_005.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 1574,
+    "end": 1620,
+    "start_s": 26.233735523981576,
+    "end_s": 27.00041394463161,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_006.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 1621,
+    "end": 1677,
+    "start_s": 27.017080866819654,
+    "end_s": 27.95042850935013,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_007.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 1678,
+    "end": 1792,
+    "start_s": 27.967095431538173,
+    "end_s": 29.867124560975213,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_008.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 1793,
+    "end": 1859,
+    "start_s": 29.883791483163257,
+    "end_s": 30.983808347574175,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_009.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 1860,
+    "end": 1917,
+    "start_s": 31.00047526976222,
+    "end_s": 31.950489834480738,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_010.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 1918,
+    "end": 1958,
+    "start_s": 31.967156756668782,
+    "end_s": 32.63383364419055,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_011.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 1959,
+    "end": 2043,
+    "start_s": 32.6505005663786,
+    "end_s": 34.05052203017431,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_012.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2056,
+    "end": 2067,
+    "start_s": 34.267192018618886,
+    "end_s": 34.45052816268737,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_013.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 1977,
+    "end": 2030,
+    "start_s": 32.95050516576339,
+    "end_s": 33.833852041729735,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_014.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2031,
+    "end": 2091,
+    "start_s": 33.85051896391778,
+    "end_s": 34.85053429520043,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_015.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2092,
+    "end": 2144,
+    "start_s": 34.86720121738848,
+    "end_s": 35.73388117116677,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_016.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2145,
+    "end": 2193,
+    "start_s": 35.750548093354816,
+    "end_s": 36.55056035838094,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_017.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2194,
+    "end": 2242,
+    "start_s": 36.567227280568986,
+    "end_s": 37.367239545595105,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_018.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2243,
+    "end": 2299,
+    "start_s": 37.38390646778315,
+    "end_s": 38.31725411031363,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_019.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2300,
+    "end": 2342,
+    "start_s": 38.33392103250167,
+    "end_s": 39.033931764399526,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_020.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2343,
+    "end": 2388,
+    "start_s": 39.05059868658757,
+    "end_s": 39.80061018504956,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_021.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2389,
+    "end": 2418,
+    "start_s": 39.8172771072376,
+    "end_s": 40.300617850690884,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_022.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2419,
+    "end": 2456,
+    "start_s": 40.31728477287893,
+    "end_s": 40.93396089383656,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_023.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2457,
+    "end": 2499,
+    "start_s": 40.95062781602461,
+    "end_s": 41.65063854792246,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_024.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2500,
+    "end": 2547,
+    "start_s": 41.66730547011051,
+    "end_s": 42.45065081294859,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_025.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2548,
+    "end": 2583,
+    "start_s": 42.46731773513663,
+    "end_s": 43.05066001171818,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_026.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2584,
+    "end": 2650,
+    "start_s": 43.06732693390622,
+    "end_s": 44.16734379831714,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_027.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2651,
+    "end": 2686,
+    "start_s": 44.184010720505185,
+    "end_s": 44.76735299708673,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_028.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2687,
+    "end": 2736,
+    "start_s": 44.784019919274776,
+    "end_s": 45.60069910648894,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_029.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2737,
+    "end": 2780,
+    "start_s": 45.61736602867698,
+    "end_s": 46.33404368276289,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_030.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2781,
+    "end": 2810,
+    "start_s": 46.35071060495093,
+    "end_s": 46.83405134840421,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_031.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2863,
+    "end": 2911,
+    "start_s": 47.717398224370555,
+    "end_s": 48.517410489396674,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_032.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2912,
+    "end": 2944,
+    "start_s": 48.53407741158472,
+    "end_s": 49.06741892160213,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_033.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2945,
+    "end": 2983,
+    "start_s": 49.08408584379018,
+    "end_s": 49.71742888693586,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_034.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2984,
+    "end": 2994,
+    "start_s": 49.73409580912391,
+    "end_s": 49.90076503100435,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_035.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 2995,
+    "end": 3007,
+    "start_s": 49.91743195319239,
+    "end_s": 50.11743501944892,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_036.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 3019,
+    "end": 3062,
+    "start_s": 50.317438085705454,
+    "end_s": 51.03411573979135,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_037.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 3063,
+    "end": 3103,
+    "start_s": 51.0507826619794,
+    "end_s": 51.717459549501164,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_038.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 3104,
+    "end": 3147,
+    "start_s": 51.73412647168921,
+    "end_s": 52.45080412577511,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_039.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 3148,
+    "end": 3183,
+    "start_s": 52.46747104796315,
+    "end_s": 53.0508133245447,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_040.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 3184,
+    "end": 3220,
+    "start_s": 53.06748024673274,
+    "end_s": 53.66748944550233,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_041.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 3221,
+    "end": 3256,
+    "start_s": 53.68415636769038,
+    "end_s": 54.267498644271924,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_042.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 3257,
+    "end": 3290,
+    "start_s": 54.28416556645997,
+    "end_s": 54.83417399866543,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_043.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 3291,
+    "end": 3334,
+    "start_s": 54.85084092085347,
+    "end_s": 55.56751857493938,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_044.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 3335,
+    "end": 3370,
+    "start_s": 55.58418549712742,
+    "end_s": 56.16752777370897,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_045.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 3371,
+    "end": 3399,
+    "start_s": 56.18419469589701,
+    "end_s": 56.65086851716225,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_046.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 3400,
+    "end": 3442,
+    "start_s": 56.667535439350296,
+    "end_s": 57.36754617124815,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_047.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 3443,
+    "end": 3507,
+    "start_s": 57.384213093436195,
+    "end_s": 58.450896113471025,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_048.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 3508,
+    "end": 3533,
+    "start_s": 58.46756303565907,
+    "end_s": 58.88423609036017,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_049.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 3534,
+    "end": 3565,
+    "start_s": 58.90090301254821,
+    "end_s": 59.417577600377584,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_050.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 4026,
+    "end": 4124,
+    "start_s": 67.10102872906596,
+    "end_s": 68.7343871034943,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_051.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 4125,
+    "end": 4284,
+    "start_s": 68.75105402568234,
+    "end_s": 71.40109465358137,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_052.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 4285,
+    "end": 4388,
+    "start_s": 71.41776157576942,
+    "end_s": 73.13445456113797,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_053.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 4389,
+    "end": 4474,
+    "start_s": 73.15112148332601,
+    "end_s": 74.56780986930977,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_054.mp4"
+  },
+  {
+    "label": "uppercut",
+    "start": 4475,
+    "end": 4599,
+    "start_s": 74.5844767914978,
+    "end_s": 76.65117514281529,
+    "src": "C:\\Users\\ylop\\Desktop\\TRAINING FOOTAGE\\PXL_20250430_123425036.mp4",
+    "out": "C:\\Users\\ylop\\Desktop\\annotator\\extracted_techniques\\strikes\\uppercut\\uppercut_PXL_20250430_123425036_055.mp4"
+  }
+]
