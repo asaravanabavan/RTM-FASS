@@ -253,12 +253,6 @@ Open `Copy of MAIN.ipynb` and run cells marked with ⭐ for quick analysis, or r
 
 ## 📊 Model Performance
 
-### Strike Classification
-- **Training Accuracy**: ~85-90% on combined dataset
-- **Validation Accuracy**: ~80-85%
-- **Inference Speed**: 30+ FPS on RTX GPUs
-- **Sequence Length**: 15 frames per detection
-
 ### Supported Classes
 - Jab, Cross, Hook, Uppercut
 - Roundhouse, Teep
